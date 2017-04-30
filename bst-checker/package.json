@@ -1,0 +1,21 @@
+{
+  "name": "bst-checker",
+  "version": "0.0.1",
+  "description": "Interview Cake",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "Gerald Haagsma",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghaagsma/project-euler-practice.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  },
+  "dependencies": {
+    "javascript-utilities": "../../../javascript-utilities"
+  }
+}
